@@ -1,4 +1,4 @@
-# 💼 Moulabi's Portfolio
+# 💼 My Portfolio
 
 A modern, responsive portfolio website showcasing my journey from Electronics & Communication Engineering to Frontend Development.
 
