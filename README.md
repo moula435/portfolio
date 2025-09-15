@@ -2,6 +2,11 @@
 
 A modern, responsive portfolio website showcasing my journey from Electronics & Communication Engineering to Frontend Development.
 
+## 🚀 Live Demo
+
+[View Portfolio](https://moulabidudekula.github.io/portfolio/)
+
+
 ## 🌟 Features
 
 - **Dark/Light Theme Toggle** - Switch between themes
@@ -25,9 +30,6 @@ A modern, responsive portfolio website showcasing my journey from Electronics & 
 - **Certificates** - Professional certifications
 - **Contact** - Get in touch with me
 
-## 🚀 Live Demo
-
-[View Portfolio](https://moulabidudekula.github.io/portfolio/)
 
 ## 📱 Preview
 
