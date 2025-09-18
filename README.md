@@ -48,8 +48,8 @@ Final year ECE student passionate about Frontend Development. Currently building
 ## 📞 Connect
 
 - **Email**: dudekulamoulabi4@gmail.com
-- **LinkedIn**: [dudekula-moulabi-0ab757258](https://linkedin.com/in/dudekula-moulabi-0ab757258)
-- **GitHub**: [moulabidudekula](https://github.com/moulabidudekula)
+- **LinkedIn**: [moula435](https://linkedin.com/in/moula435/)
+- **GitHub**: [moula435](https://github.com/moula435)
 
 ---
 
