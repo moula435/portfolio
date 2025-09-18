@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey from Electronics & 
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://moulabidudekula.github.io/portfolio/)
+[View Portfolio](https://moula435.github.io/portfolio/)
 
 
 ## 🌟 Features
